@@ -1,9 +1,18 @@
 # ActivityWatch-Darkmode
   A css theme made for ActivityWatch, an open-sourced time tracker: https://github.com/ActivityWatch/activitywatch.
     
-   Screenshots are located here: https://imgur.com/a/VqdiME3
+   Screenshots are located here: [https://imgur.com/a/VqdiME3]
   
   While the code has been mostly optimized for my side, it should work fine with other clients. I have not documented the .css very well, but in due time I shall add more clarity for what each thing gets changed.
+
+# CURRENT ISSUES
+
+Dropdowns are in dark mode, I haven't figured out of how to make them dark.
+Buttons aren't theme correctly.
+Some text is larger than others.
+Boxing sizing isn't appopriate.
+Coloring may not be appopriate.
+Text-shadows for the data may not be appopriate.
 
 ## How do I add the css?
   To implement the css, locate your AppData, go to Local, Programs, ActivityWatch, aw-server, aw-server, static, and then css. Replace the files or manually enter in the changes to the files and save. 
