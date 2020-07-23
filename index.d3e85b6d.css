@@ -1,0 +1,25 @@
+body,
+button,
+html {
+    color: rgba(255,255, 255, 0.87);
+    font-family: 'Fira Code Retina', sans-serif!important;
+}
+
+body {
+    background-color: #121212;
+}
+
+.fa-icon {
+    margin-top: -.125em;
+    margin-left: 4px;
+    margin-right: 4px;
+    vertical-align: middle
+}
+
+.aw-container {
+    background-color: #1f1f1f;
+    border: 5px solid none;
+    border-radius: 2px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
