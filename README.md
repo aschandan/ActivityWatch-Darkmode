@@ -1,5 +1,5 @@
 # ActivityWatch-Darkmode
-  ##A UNOFFICAL css theme made for ActivityWatch, an open-sourced time tracker: https://github.com/ActivityWatch/activitywatch.
+  ## A UNOFFICAL css theme made for ActivityWatch, an open-sourced time tracker: https://github.com/ActivityWatch/activitywatch.
     
    Screenshots are located here: https://imgur.com/a/VqdiME3
   
